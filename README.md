@@ -35,6 +35,16 @@ https://nginx.org/keys/nginx_signing.key /etc/apt/trusted.gpg.d/nginx_signing.as
 
 #git submodule init
 
+#git submodule update
+
+#./build.sh
+
+#./configure
+
+#make
+
+#sudo make install
+
 3.Comply modsecurity ให้ nginx ใช้งาน
 
 #cd
