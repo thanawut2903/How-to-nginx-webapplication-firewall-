@@ -67,3 +67,5 @@ https://nginx.org/keys/nginx_signing.key /etc/apt/trusted.gpg.d/nginx_signing.as
 
 #sudo cp objs/ngx_http_modsecurity_module.so /etc/nginx/modules
 
+https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/
+
