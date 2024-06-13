@@ -72,3 +72,6 @@ https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-
 sudo apt-get install -y apt-utils autoconf automake build-essential git libcurl4-openssl-dev \
 libgeoip-dev libmdb-dev libpcre++-dev libtool libxml2-dev libyajl-dev pkgconf wget zlib1g-dev
 
+sudo apt install -y apt-utils autoconf automake build-essential git libcurl4-openssl-dev \
+libgeoip-dev libmdb-dev libpcre3-dev libtool libxml2-dev libyajl-dev pkg-config wget zlib1g-dev
+
