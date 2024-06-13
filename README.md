@@ -69,3 +69,6 @@ sudo apt-get install -y apt-utils autoconf automake build-essential git libcurl4
 
 https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/
 
+sudo apt-get install -y apt-utils autoconf automake build-essential git libcurl4-openssl-dev \
+libgeoip-dev libmdb-dev libpcre++-dev libtool libxml2-dev libyajl-dev pkgconf wget zlib1g-dev
+
