@@ -27,7 +27,7 @@ https://nginx.org/keys/nginx_signing.key /etc/apt/trusted.gpg.d/nginx_signing.as
 
 2.Comply Libmodsecurity ตัวแชร์ไลบรารี่ที่ modsecurity ต้องการ
 
-#sudo apt-get install -y apt-utils autoconf automake build-essential git libcur14-openssl-dev \ libgeoip-dev liblmdb-dev libpcre++-dev libtool libxml2-dev libyajl-dev pkgconf wget zlib1g-dev 
+sudo apt-get install -y apt-utils autoconf automake build-essential git libcurl4-openssl-dev libgeoip-dev liblmdb-dev libpcre3-dev libtool libxml2-dev libyajl-dev pkgconf wget zlib1g-dev
 
 #git clone --depth 1 -b v3/master --single-branch https://github.com/SpiderLabs/ModSecurity 
 
