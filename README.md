@@ -88,11 +88,13 @@ libgeoip-dev libmdb-dev libpcre3-dev libtool libxml2-dev libyajl-dev pkg-config 
 
 #cd nginx-1.21.1/
 
-#wget https://github.com/Spider Labs/ModSecurity-nginx/releases/download/v1.0.2/modsecurity-nginx- v1.0.2.tar.gz
+#wget https://github.com/SpiderLabs/ModSecurity-nginx/releases/download/v1.0.3/modsecurity-nginx- v1.0.3.tar.gz
 
-#tar xvfz modsecurity-nginx-v1.0.2.tar.gz
+#tar xvfz modsecurity-nginx-v1.0.3.tar.gz
 
-#./configure --add-dynamic-module=./modsecurity-nginx-v1.0.2 --with-compat
+#sudo apt-get install zlib1g-dev
+
+#./configure --add-dynamic-module=./modsecurity-nginx-v1.0.3 --with-compat
 
 #make modules
 
