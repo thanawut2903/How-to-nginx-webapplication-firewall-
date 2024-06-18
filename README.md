@@ -62,13 +62,19 @@ libgeoip-dev libmdb-dev libpcre3-dev libtool libxml2-dev libyajl-dev pkg-config 
 
 #git submodule update
 
-#./build.sh
+#sudo apt-get install libtool
 
-#./configure
+#sudo apt-get install libpcre3-dev
+
+#sudo ./build.sh
+
+#sudo ./configure
 
 #sudo apt install make
 
 #sudo make
+
+#sudo make install
 
 3.Comply modsecurity ให้ nginx ใช้งาน
 
