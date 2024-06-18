@@ -96,7 +96,7 @@ libgeoip-dev libmdb-dev libpcre3-dev libtool libxml2-dev libyajl-dev pkg-config 
 
 #./configure --add-dynamic-module=./modsecurity-nginx-v1.0.3 --with-compat
 
-#make modules
+#sudo make modules
 
 #sudo cp objs/ngx_http_modsecurity_module.so /etc/nginx/modules
 
